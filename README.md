@@ -1,8 +1,10 @@
-Basically this always returns Arch, on any system
+Basically this always returns Arch, on any system.
 
 ![image](https://user-images.githubusercontent.com/49426949/119331499-b3ea0f80-bc87-11eb-8b47-df3988f79ed8.png)
 
-(This is  actually running Kubuntu)
+^ actually running Kubuntu
+
+* * *
 
 Build it as you would normally:
 - `make install`
