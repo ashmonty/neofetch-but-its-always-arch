@@ -6,7 +6,7 @@ Basically this version of neofetch always returns Arch, on any system.
 
 * * *
 
-Build it as you would normally:
+Build it as you normally would:
 - `make install`
 - MacOS: `make PREFIX=/usr/local install`
 - Haiku: `make PREFIX=/boot/home/config/non-packaged install`
