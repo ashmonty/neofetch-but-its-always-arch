@@ -16,4 +16,4 @@ Build it as you normally would:
 You might have to run this as root blablabla
 
 **Note: this __will__ replace the actual neofetch**
-To revert this, just `sudo apt reinstall neofetch` or whatever is the equivalent for your distro
+To revert this, just `sudo apt reinstall neofetch` or whatever the equivalent is for your distro
