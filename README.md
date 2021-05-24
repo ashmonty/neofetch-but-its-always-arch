@@ -14,3 +14,6 @@ Build it as you would normally:
 - MinGW/MSys: `make -i install`
 
 You might have to run this as root blablabla
+
+**Note: this __will__ replace the actual neofetch**
+To revert this, just `sudo apt reinstall neofetch` or whatever is appropriate for your distro
