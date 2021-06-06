@@ -1,4 +1,5 @@
 Basically this version of neofetch always returns Arch, on any system.
+Don't question it
 
 ![An example image showing this version of neofetch compiled and running on Manjaro Linux](https://user-images.githubusercontent.com/49426949/120924572-af384900-c6d4-11eb-81fb-bde122157acb.png)
 
