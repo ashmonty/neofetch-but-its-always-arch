@@ -1,6 +1,6 @@
 Basically this version of neofetch always returns Arch, on any system.
 
-![image](https://user-images.githubusercontent.com/49426949/119331499-b3ea0f80-bc87-11eb-8b47-df3988f79ed8.png)
+![An example image showing this version of neofetch compiled and running on Manjaro Linux](https://user-images.githubusercontent.com/49426949/120924572-af384900-c6d4-11eb-81fb-bde122157acb.png)
 
 ^ actually running Kubuntu
 
@@ -16,4 +16,7 @@ Build it as you normally would:
 You might have to run this as root blablabla
 
 **Note: this __will__ replace the actual neofetch**
-To revert this, just `sudo apt reinstall neofetch` or whatever the equivalent is for your distro
+To revert this, just reinstall the actual neofetch with
+- `sudo apt reinstall neofetch`
+- `sudo pacman -S neofetch`
+or whatever the equivalent is for your distro/OS
