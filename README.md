@@ -19,7 +19,9 @@ You might have to run this as root blablabla
 
 
 **Note: this __will__ replace the actual neofetch**
+
 To revert this, just reinstall the actual neofetch with
 - `sudo apt reinstall neofetch`
 - `sudo pacman -S neofetch`
+
 or whatever the equivalent is for your distro/OS
